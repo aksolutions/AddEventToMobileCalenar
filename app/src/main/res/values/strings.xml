@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AddEventToMobileCalenar</string>
+    <string name="add_event">Add Event</string>
+    <string name="add_event_to_calendar">Add event to calendar</string>
+</resources>
